@@ -6,13 +6,13 @@
 		
 		$.extend(self, {
 			nCageImgs : [
-				"https://www.imagemhost.com.br/image/KggpE",
-				"https://www.imagemhost.com.br/image/KgLnv",
-				"https://www.imagemhost.com.br/image/KgNSY",
-				"https://www.imagemhost.com.br/image/KgcyS",
-				"https://www.imagemhost.com.br/image/Kg06I",
-				"https://www.imagemhost.com.br/image/Kg1xy",
-				"https://www.imagemhost.com.br/image/KgJwU"
+				"https://www.imagemhost.com.br/images/2019/10/24/4.jpg",
+				"https://www.imagemhost.com.br/images/2019/10/24/2.jpg",
+				"https://www.imagemhost.com.br/images/2019/10/24/3.jpg",
+				"https://www.imagemhost.com.br/images/2019/10/24/1.jpg",
+				"https://www.imagemhost.com.br/images/2019/10/24/5.jpg",
+				"https://www.imagemhost.com.br/images/2019/10/24/6.jpg",
+				"https://www.imagemhost.com.br/images/2019/10/24/7.jpg"
 		],
 			handleImages : function (lstImgs, time)
 			{
