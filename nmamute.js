@@ -6,14 +6,14 @@
 		
 		$.extend(self, {
 			nCageImgs : [
-			'https://files.slack.com/files-pri/T0GPLQSTX-FPC5V3P8S/7.png',
-			'https://files.slack.com/files-pri/T0GPLQSTX-FPJFY1WJV/4.jpg',
-			'https://files.slack.com/files-pri/T0GPLQSTX-FPSQNV96K/3.jpg',
-			'https://files.slack.com/files-pri/T0GPLQSTX-FPC5V3P9Q/5.jpg',
-			'https://files.slack.com/files-pri/T0GPLQSTX-FPC5V3K6W/6.jpg',
-			'https://files.slack.com/files-pri/T0GPLQSTX-FPDF1KBGT/2.jpeg',
-			'https://files.slack.com/files-tmb/T0GPLQSTX-FPSQNV763-c14071a7af/1_480.jpg'
-			],
+				"https://www.imagemhost.com.br/image/KggpE",
+				"https://www.imagemhost.com.br/image/KgLnv",
+				"https://www.imagemhost.com.br/image/KgNSY",
+				"https://www.imagemhost.com.br/image/KgcyS",
+				"https://www.imagemhost.com.br/image/Kg06I",
+				"https://www.imagemhost.com.br/image/Kg1xy",
+				"https://www.imagemhost.com.br/image/KgJwU"
+		],
 			handleImages : function (lstImgs, time)
 			{
 				$.each($('img'), function(i,item) { 
